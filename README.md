@@ -20,5 +20,5 @@ Others
     Version 0.0.1
     License Vim license
     Maintainer neco
-    URL https://neco-@github.com/neco-/Bd.git
+    URL https://github.com/neco-/Bd.git
     Last change April 20, 2012
